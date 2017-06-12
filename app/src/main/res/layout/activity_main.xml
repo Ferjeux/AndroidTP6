@@ -12,7 +12,7 @@
         android:layout_height="match_parent"
         tools:layout_editor_absoluteY="match_parent"
         tools:layout_editor_absoluteX="match_parent"
-        android:background="@drawable/demon"/>
+        android:src="@drawable/demon"/>
 
 
 
